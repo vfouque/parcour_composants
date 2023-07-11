@@ -1,0 +1,25 @@
+{
+  "name": "react-e03-composants",
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/eslint-parser": "*",
+    "@babel/preset-env": "*",
+    "@babel/preset-react": "*",
+    "babel-loader": "*",
+    "core-js": "^3.27.1",
+    "css-loader": "^6.7.3",
+    "eslint": "*",
+    "eslint-config-airbnb": "*",
+    "eslint-import-resolver-webpack": "*",
+    "eslint-plugin-import": "*",
+    "eslint-plugin-jsx-a11y": "*",
+    "eslint-plugin-react": "*",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server"
+  }
+}
